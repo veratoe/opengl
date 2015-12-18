@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diede/cpp/hello.cpp
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+shader.h
+/home/diede/cpp/shader.h
+
+/home/diede/cpp/shader.h
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+GL/glew.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/wubwub.dir/hello.cpp.o  -o wubwub -rdynamic -lglfw3 -lGL -lGLU -lX11 -lGLEW -lXxf86vm -lXrandr -lpthread -lXi -lXinerama -lXcursor  -ldl
